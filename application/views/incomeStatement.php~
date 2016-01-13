@@ -15,7 +15,7 @@
 				<form method="post" action="<?=base_url()?>index.php/income_statement/main">
 					<div id="wiz1step1" class="formwiz span6">
 						<hr>
-						<h4 class="widgettitle">Filter Tanggal : </h4>
+						<h4 class="widgettitle">Filter Tanggal </h4>
 						<div class="widgetcontent">
 							
 							<span class="field" style="padding-right:5px;padding-bottom:5px;float:left;">
