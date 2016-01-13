@@ -1,2 +1,4 @@
-# elminamobile
-mengadaptasi sistem backoffice elmina menjadi aplikasi mobile
+elminaibo
+=========
+
+Elmina Integrated Backoffice
