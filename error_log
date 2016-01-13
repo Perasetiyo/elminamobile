@@ -1,0 +1,10 @@
+[11-Apr-2015 00:24:58 UTC] PHP Fatal error:  Class 'Cart_stats_model' not found in /home/elminaid/public_html/bo/system/core/Loader.php on line 303
+[13-Apr-2015 01:52:51 UTC] PHP Parse error:  syntax error, unexpected ''order_tota' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/elminaid/public_html/bo/application/controllers/wallet.php on line 43
+[13-Apr-2015 01:52:59 UTC] PHP Parse error:  syntax error, unexpected ''order_tota' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/elminaid/public_html/bo/application/controllers/wallet.php on line 43
+[13-Apr-2015 02:02:36 UTC] PHP Parse error:  syntax error, unexpected ''order_tota' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/elminaid/public_html/bo/application/controllers/wallet.php on line 43
+[13-Apr-2015 03:15:47 UTC] PHP Parse error:  syntax error, unexpected ''order_tota' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/elminaid/public_html/bo/application/controllers/wallet.php on line 43
+[13-Apr-2015 04:07:01 UTC] PHP Parse error:  syntax error, unexpected ''order_tota' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/elminaid/public_html/bo/application/controllers/wallet.php on line 43
+[24-Jul-2015 01:37:15 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::row() in /home/elminaid/public_html/bo/application/controllers/balance_sheet.php on line 159
+[24-Jul-2015 01:38:01 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result() in /home/elminaid/public_html/bo/application/controllers/balance_sheet.php on line 159
+[24-Jul-2015 01:39:31 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result() in /home/elminaid/public_html/bo/application/controllers/balance_sheet.php on line 159
+[22-Sep-2015 06:35:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/elminaid/public_html/bo/application/controllers/stock.php on line 211
